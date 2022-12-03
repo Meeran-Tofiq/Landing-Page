@@ -100,14 +100,23 @@ body {
 .section-three {
     display: flex;
     flex-direction: column;
-    padding: 32px 128px;
+    padding: 48px 400px;
     justify-content: center;
     align-items: center;
     background: #E5E7EB;
 }
 
 .section-three .quote {
-    
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+}
+
+.section-three .quotee {
+    align-self: flex-end;
+    padding: 8px;
+    color: #1F2937;
 }
 
 .section-four {
