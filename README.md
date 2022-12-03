@@ -5,3 +5,4 @@ Though this, I hope to showcase my abilities at CSS and flexbox, as well as my r
 
 Credits:
 Anita Austvika - picture of "Woman holding apples."
+Michael Dziedzic - picture of prism
